@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xolli.github.io/sitemap-index.xml
+Sitemap: https://cv.xolli.fun/sitemap-index.xml
