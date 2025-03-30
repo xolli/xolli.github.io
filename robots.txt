@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://cv.xolli.fun/sitemap-index.xml
