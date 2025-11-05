@@ -1,0 +1,1 @@
+import"./hoisted.BkSZLX8a.js";const s=new Date("2022-02-01"),c=new Date("2025-10-01"),o=new Date(c.getTime()-s.getTime()),n=o.getUTCFullYear()-1970,e=o.getUTCMonth(),a=`Feb 2022 - Oct 2025 (${n} year${n!==1?"s":""}${e!==0?` ${e} month${e!==1?"s":""}`:""})`;document.addEventListener("DOMContentLoaded",()=>{const t=document.getElementById("experience-date");t&&(t.textContent=a)});
